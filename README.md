@@ -27,8 +27,22 @@
 
  <p><b>Sir Lewis Carl Davidson Hamilton – brytyjski kierowca wyścigowy, siedmiokrotny mistrz świata Formuły 1 w sezonach 2008, 2014, 2015, 2017, 2018, 2019, 2020, a także wicemistrz tej serii w sezonach 2007, 2016, 2021.</b></p>
   
-<img src=" https://github.com/mrowki35/mrowki35.github.io/blob/1615deecdb3084cb0c87f57367f8b8b075363b8e/Lewis_Hamilton.jpg" alt="hi" class="inline"/>
+<img src="https://github.com/mrowki35/mrowki35.github.io/blob/1615deecdb3084cb0c87f57367f8b8b075363b8e/Lewis_Hamilton.jpg"/>
+ <img src="Lewis_Hamilton.jpg"/>
  
+  <img src="Lewis_Hamilton.jpg"/>
+  <img src="/Lewis_Hamilton.jpg"/>
+ <img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+ 
+ 
+ <picture>
+  <img src="Lewis_Hamilton.jpg">
+</picture>
+ 
+ 
+  <picture>
+  <img src="Lewis_Hamilton.jpg"/>
+</picture>
   
 <BR> <B><I></I></B>
 
