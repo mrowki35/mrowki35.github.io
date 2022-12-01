@@ -24,10 +24,6 @@
 
 <P> <B>Aktualnie zajmuje się dwoma projektami w Pythonie, zwiększam swoje umiejętności w UE5.
 
-<BR> <B><I>.</I></B>
+<BR> <B><I></I></B>
 
 <HR>
-
-</BODY>
-
-</HTML>
